@@ -1,5 +1,8 @@
 clear; clc; close;
 
+% Code by Kapigoku
+% Simulation by Y0z64
+
 % Variables
 fg = 9.81;                                  % Aceleración por gravedad
 m = 0.01;                                   % Masa del dipolo          
